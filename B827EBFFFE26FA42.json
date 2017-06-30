@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE26FA42",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 45.493669,
+    "ref_longitude": 15.550853,
+    "ref_altitude": 97,
+    "contact_email": "barsic.marin@gmail.com",
+    "description": "iC880A-SPI + Rpi 2"
+  }
+}
